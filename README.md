@@ -6,7 +6,7 @@ Min koncept til dette hjemmeside ville nok være at gør shopping turen en del h
 
 ## Værdier
 Ender du tit med at ikke kunne find det passende outfit til det bestemte lejlighed. Med 
-**bold text** "S as for Soul" for du lov til at vælge mellem alle de færedig lavede outfits, afhænge af din brug og dresscode. 
+**"S as for Soul"**  for du lov til at vælge mellem alle de færedig lavede outfits, afhænge af din brug og dresscode. 
 
 
 
