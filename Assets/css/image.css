@@ -1,0 +1,15 @@
+.logo{
+    width: 100px; 
+    height: auto; 
+    list-style-type: none;  
+
+}
+
+.topLogo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
